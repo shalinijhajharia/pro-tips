@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shalinijhajharia/pro-tips.git/static/css/main.b6d653b4.css",
+    "main.js": "/shalinijhajharia/pro-tips.git/static/js/main.3bfa92cf.js",
+    "static/js/787.a2407c3a.chunk.js": "/shalinijhajharia/pro-tips.git/static/js/787.a2407c3a.chunk.js",
+    "static/media/trophy.svg": "/shalinijhajharia/pro-tips.git/static/media/trophy.2d95efe373430356cd4be0b972b0e2f6.svg",
+    "static/media/trek.svg": "/shalinijhajharia/pro-tips.git/static/media/trek.758cd9ebca1d0ca25e727019b9f90bb2.svg",
+    "static/media/add.svg": "/shalinijhajharia/pro-tips.git/static/media/add.e1c19c9e36d98adaa36804986b4cdbce.svg",
+    "static/media/list.svg": "/shalinijhajharia/pro-tips.git/static/media/list.587f98ecbf6209a1cf855bf2619c013c.svg",
+    "static/media/sun.svg": "/shalinijhajharia/pro-tips.git/static/media/sun.1b96d02365838a6b8288a3d59d8bc5de.svg",
+    "index.html": "/shalinijhajharia/pro-tips.git/index.html",
+    "static/media/home.svg": "/shalinijhajharia/pro-tips.git/static/media/home.c42fa7ef9a49f1bae9261b7dbdcca6d5.svg",
+    "main.b6d653b4.css.map": "/shalinijhajharia/pro-tips.git/static/css/main.b6d653b4.css.map",
+    "main.3bfa92cf.js.map": "/shalinijhajharia/pro-tips.git/static/js/main.3bfa92cf.js.map",
+    "787.a2407c3a.chunk.js.map": "/shalinijhajharia/pro-tips.git/static/js/787.a2407c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d653b4.css",
+    "static/js/main.3bfa92cf.js"
+  ]
+}
